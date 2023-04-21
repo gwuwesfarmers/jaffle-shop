@@ -6,3 +6,6 @@ logs/
 *.duckdb.wal
 reports/sources/*.csv
 .meltano
+
+# data
+jaffle-data
