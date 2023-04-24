@@ -9,3 +9,8 @@ reports/sources/*.csv
 
 # data
 jaffle-data
+
+# local caches
+.devcontainer
+.github
+.vscode
